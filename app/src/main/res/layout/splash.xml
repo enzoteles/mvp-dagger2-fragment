@@ -1,0 +1,25 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <RelativeLayout
+        android:id="@+id/layout_splash"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#ffffff">
+
+        <TextView
+            android:id="@+id/txtSplash"
+            android:layout_width="276px"
+            android:layout_height="180px"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="@string/txt_splash"
+            android:textSize="30px"
+            android:textStyle="bold"
+            />
+
+
+    </RelativeLayout>
+
+</RelativeLayout>

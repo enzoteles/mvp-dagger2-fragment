@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PropostaDeArquitetura</string>
+    <string name="edt_hint_name">Nome</string>
+    <string name="edt_hint_senha">Senha</string>
+    <string name="btn_enviar">Enviar</string>
+
+    <string name="txt_splash">Arquitetura com Dagger 2 e Teste de Unidade e UI</string>
+</resources>

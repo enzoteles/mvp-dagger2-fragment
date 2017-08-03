@@ -1,0 +1,50 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <RelativeLayout
+        android:id="@+id/layout_splash"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#ffffff">
+
+        <include
+            android:id="@+id/toolbar"
+            layout="@layout/toolbar"/>
+
+        <EditText
+            android:id="@+id/edt_nome"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/toolbar"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="100dp"
+            android:ems="10"
+            android:hint="@string/edt_hint_name"
+            android:inputType="textPersonName"
+            tools:text="Nome" />
+
+
+    </RelativeLayout>
+
+    <EditText
+        android:id="@+id/edt_senha"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:ems="10"
+        android:hint="@string/edt_hint_senha"
+        android:inputType="textPersonName" />
+
+    <Button
+        android:id="@+id/btn_send"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/edt_senha"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="90dp"
+        android:text="@string/btn_enviar" />
+
+</RelativeLayout>
