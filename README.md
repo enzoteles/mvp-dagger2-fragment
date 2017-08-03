@@ -1,6 +1,8 @@
 # mvp-dagger2-fragment
 
-- Arquitetura MVP utilizando dagger 2 com teste unitário e teste funcional
+- Arquitetura MVP utilizando dagger 2 com teste unitário e teste funcional, o objetivo principal não é ensinar as tecnologias, mais sim
+como funciona a arquitetura e seus testes.Mais abaixo estão umas pequenas descrições e seus link para aprendizado. Essas tecnologias são 
+um pre-requisito para entender a nossa arquitetura com Dagger2 e MVP.
 
 # Dagger
 
@@ -24,6 +26,48 @@ https://code.tutsplus.com/tutorials/dependency-injection-with-dagger-2-on-androi
   http://www.thiengo.com.br/mvp-android
   https://android.jlelse.eu/android-mvp-for-beginners-25889c500443
   https://www.codeproject.com/Articles/288928/Differences-between-MVC-and-MVP-for-Beginners
+  
+  #TDD
+  
+  - Desenvolvimento dirigido por testes é uma técnica de desenvolvimento de software que baseia em um ciclo curto de repetições: primeiramente o desenvolvedor escreve um caso de teste automatizado que define uma melhoria desejada ou uma nova funcionalidade.Mais informações no link abaixo:
+  
+  https://medium.com/mobility/how-to-do-tdd-in-android-90f013d91d7f
+  http://bytes.babbel.com/en/articles/2016-05-20-tdd-in-android.html
+  http://rafael-miceli.com.br/tdd/2015/03/28/TDD-Com-Android-RED.html
+  https://www.toptal.com/android/testing-like-a-true-green-droid
+  
+  - Junit  
+  
+  http://www.vogella.com/tutorials/JUnit/article.html
+  http://www.mkyong.com/tutorials/junit-tutorials/
+  http://alexzh.com/tutorials/android-testing-unit-testing/
+  
+  - Roboletric
+  
+  http://robolectric.org/
+  https://github.com/codepath/android_guides/wiki/Unit-Testing-with-Robolectric
+  http://alexzh.com/tutorials/android-testing-mockito-robolectric/
+  
+  - espresso
+  
+  http://alexzh.com/tutorials/android-testing-espresso-part-3/
+  http://alexzh.com/tutorials/android-testing-espresso-uiautomator-together/
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  
+  
   
   
   
