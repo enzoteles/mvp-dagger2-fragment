@@ -54,6 +54,18 @@ https://code.tutsplus.com/tutorials/dependency-injection-with-dagger-2-on-androi
   http://alexzh.com/tutorials/android-testing-espresso-uiautomator-together/
   
   
+  # Projeto MVP-Dagger2
+  
+   - tudo começa com uma MainActivity normal, mais no pacote main eu crio 4 classes:
+    - MainActivity - classe principal que vai instanciar um fragmento via dagger2, a MainActivity tem uma Interface chamada OnMainActivity, e nesse pacote tem mais duas classes, "MainModule" e "OnMainModule" que são classes do dagger2.
+    
+    <img width="960" alt="main classes" src="https://user-images.githubusercontent.com/5742609/28947872-3ba13282-7880-11e7-9b32-e06f82b61008.png">
+
+    
+    
+    
+    
+  
   
   
   
