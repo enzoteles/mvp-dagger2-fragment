@@ -76,6 +76,14 @@ https://code.tutsplus.com/tutorials/dependency-injection-with-dagger-2-on-androi
     - No momento que o fragmento "SplashView" é instaciada começamos trabalhar o MVP, conforme mostrado no pacote "splash", nesse pacote eu crio 6 classes
     
     
+    <img width="960" alt="splash" src="https://user-images.githubusercontent.com/5742609/28948698-7626c98a-7885-11e7-95c0-82308c85249d.png">
+    
+    - 2 classes são do dagger2 que éo OnSplashComponente e o SplashModule o resto é do MVP que é gerenciado por Interface
+    
+    - no OnCreateView da minha view SplashView eu inicio o meu componente do dagger para instanciar meu Presenter onde ele tem uma instancia do SplashView e que irá se comuniar com interactor.
+    
+    
+    
   
   
   
