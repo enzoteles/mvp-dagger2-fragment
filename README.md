@@ -61,7 +61,13 @@ https://code.tutsplus.com/tutorials/dependency-injection-with-dagger-2-on-androi
     
     <img width="960" alt="main classes" src="https://user-images.githubusercontent.com/5742609/28947872-3ba13282-7880-11e7-9b32-e06f82b61008.png">
 
-    
+</br>
+
+    - Na Classe MainActivity eu instancio meu Fragmento que é o SplashFragment e o meu gerenciador de Fragmento que é o "ManagerFragment" via dagger 2 
+
+    </br>
+    <img width="960" alt="main init" src="https://user-images.githubusercontent.com/5742609/28948214-431db556-7882-11e7-8afd-fe5c5f88bcd5.png">
+
     
     
     
