@@ -84,6 +84,10 @@ https://code.tutsplus.com/tutorials/dependency-injection-with-dagger-2-on-androi
     
  - no OnCreateView da minha view SplashView eu inicio o meu componente do dagger para instanciar meu Presenter onde ele tem uma instancia do SplashView e que irá se comuniar com interactor.
  
+ 
+ 
+ <img width="960" alt="splash iniciando o content" src="https://user-images.githubusercontent.com/5742609/28949482-10737010-788b-11e7-912d-e64bf2802a31.png">
+
 
 
    
