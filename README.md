@@ -68,6 +68,10 @@ https://code.tutsplus.com/tutorials/dependency-injection-with-dagger-2-on-androi
 
 
 - ManagerFragment gerencia esses métodos de adicionar, remover e substituir os fragment conforme a figura abaixo:
+
+
+<img width="960" alt="managerfragment" src="https://user-images.githubusercontent.com/5742609/28949379-668f1d1a-788a-11e7-81fb-873e211e4354.png">
+
    
   
 
