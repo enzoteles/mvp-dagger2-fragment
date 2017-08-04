@@ -13,8 +13,7 @@ https://blog.mindorks.com/a-complete-guide-to-learn-dagger-2-b4c7a570d99c
 https://code.tutsplus.com/tutorials/dependency-injection-with-dagger-2-on-android--cms-23345
 
 # Fragment
-  - Um Fragment representa o comportamento ou uma parte da interface do usuário em um Activity. É possível combinar vários fragmentos em uma única atividade para compilar uma IU de vários painéis e reutilizar um fragmento em diversas atividades, nessa arquitetura eu ultilezei 
-  fragmentos, e criei uma classe chamada "ManagerFragment" para gerenciar a parte de adicionar, remover e substituir fragmento. Mais informações nesses links abaixo:
+  - Um Fragment representa o comportamento ou uma parte da interface do usuário em um Activity. É possível combinar vários fragmentos em uma única atividade para compilar uma IU de vários painéis e reutilizar um fragmento em diversas atividades, nessa arquitetura eu utilizei fragmentos, e criei uma classe chamada "ManagerFragment" para gerenciar a parte de adicionar, remover e substituir fragmento. Mais informações nesses links abaixo:
   
   https://developer.android.com/training/basics/fragments/creating.html
   http://www.vogella.com/tutorials/AndroidFragments/article.html
