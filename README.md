@@ -90,7 +90,7 @@ https://code.tutsplus.com/tutorials/dependency-injection-with-dagger-2-on-androi
 
 <img width="960" alt="splash com interactor" src="https://user-images.githubusercontent.com/5742609/28948879-d3e928fa-7886-11e7-9c89-0e577d02af93.png">
 
-Essa arquitetura foi feita para ajudar equipe de desenvolvimento e para desenvolvedores terem maiores qualidades nos seus códigos, e para terem maior facilidade nos seus códigos, qualquer dúvida envia para enzo.carvalho.teles@gmail.com
+Essa arquitetura foi feita para ajudar equipe de desenvolvimento e para desenvolvedores terem maiores qualidades nos seus códigos, e para terem maior facilidade de manutenabilidade nos seus códigos, qualquer dúvida envia para enzo.carvalho.teles@gmail.com
 
 
 
