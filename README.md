@@ -90,6 +90,13 @@ https://code.tutsplus.com/tutorials/dependency-injection-with-dagger-2-on-androi
 
 
 
+ 
+- Dentro do SplashPresenter eu inicio meu componenter do dagger2 para instanciar meu interactor
+
+
+
+
+
    
   
 
