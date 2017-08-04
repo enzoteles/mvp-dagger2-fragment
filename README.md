@@ -130,6 +130,10 @@ mais na arquitetura eu só estou fazendo uma chamada para o meu presenter e faç
 
 
 
+- Essa arquitetura MVP é para ajudar desenvolvedores ou equipe de desenvolvimento trabalhararem com mais segurança nos seus códigos e com mais qualidades
+e visando também a manutenalibilidade de seus códigos, qualquer dúvida ou sugestão meu email: enzo.carvalho.teles@gmail.com
+
+
 
 
 
