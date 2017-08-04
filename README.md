@@ -112,6 +112,9 @@ mais na arquitetura eu só estou fazendo uma chamada para o meu presenter e faç
 
 
 
+<img width="960" alt="testes" src="https://user-images.githubusercontent.com/5742609/28949864-aa7ed9d6-788d-11e7-9ec6-deaad9fd07b6.png">
+
+
 
 
 
