@@ -58,6 +58,10 @@ https://code.tutsplus.com/tutorials/dependency-injection-with-dagger-2-on-androi
   - MainActivity - classe principal que vai instanciar um fragmento via dagger2, a MainActivity tem uma Interface chamada OnMainActivity, e nesse pacote tem mais duas classes, "MainModule" e "OnMainModule" que são classes do dagger2.
   
   
+  <img width="960" alt="main classes" src="https://user-images.githubusercontent.com/5742609/28949276-ab6aa946-7889-11e7-9e1f-29e5636531e3.png">
+
+  
+  
     
     
 
