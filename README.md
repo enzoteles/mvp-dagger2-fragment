@@ -121,7 +121,7 @@ mais na arquitetura eu só estou fazendo uma chamada para o meu presenter e faç
 
 
 
-- Por fim eu crie teste de unidade e funcionais, conforme mostrado a figura abaixo, nesses teste eu usei os frameworks Retrofit, JUnit, Roboletric e Espresso com o Padrão TDD.
+- Por fim eu crie teste de unidade e funcionais, conforme mostrado a figura abaixo, nesses teste eu usei os frameworks JUnit, Roboletric e Espresso com o Padrão TDD.
 
 
 
