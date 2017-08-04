@@ -98,6 +98,14 @@ https://code.tutsplus.com/tutorials/dependency-injection-with-dagger-2-on-androi
 
 
 
+- e depois que eu chamo meu interactor que é um padrão de projeto que usa o Padrão de projeto "Comand", o interactor se comunica ou com a camada de Dados ou pode se comunicar com um Servidor web, via retrofit.
+
+mais na arquitetura eu só estou fazendo uma chamada para o meu presenter e faço o replace no fragmento chamando o meu ContentFragment. 
+
+
+
+
+
 
 
 
