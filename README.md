@@ -76,6 +76,9 @@ https://code.tutsplus.com/tutorials/dependency-injection-with-dagger-2-on-androi
 - No momento que o fragmento "SplashView" é instaciada começamos trabalhar o MVP, conforme mostrado no pacote "splash", nesse pacote eu crio 6 classes
     
     
+    <img width="960" alt="splash" src="https://user-images.githubusercontent.com/5742609/28949412-b0665656-788a-11e7-93f6-b6b72d4d77e2.png">
+
+    
  
 
 
