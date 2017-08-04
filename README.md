@@ -80,6 +80,10 @@ https://code.tutsplus.com/tutorials/dependency-injection-with-dagger-2-on-androi
 
     
  
+ - 2 classes são do dagger2 que éo OnSplashComponente e o SplashModule o resto é do MVP que é gerenciado por Interface
+    
+ - no OnCreateView da minha view SplashView eu inicio o meu componente do dagger para instanciar meu Presenter onde ele tem uma instancia do SplashView e que irá se comuniar com interactor.
+ 
 
 
    
