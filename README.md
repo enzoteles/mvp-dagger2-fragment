@@ -9,13 +9,16 @@ um pre-requisito para entender a nossa arquitetura com Dagger2 e MVP.
 - O Dagger 2 é um framework mantido pela google que tem por objetivo realizar a injeção de dependência em projetos Android e Java. Ele foi criado a partir do Dagger 1 que foi desenvolvido pela Square. Mais informações obter nesses links abaixo:
 
 https://google.github.io/dagger/
+
 https://blog.mindorks.com/a-complete-guide-to-learn-dagger-2-b4c7a570d99c
+
 https://code.tutsplus.com/tutorials/dependency-injection-with-dagger-2-on-android--cms-23345
 
 # Fragment
   - Um Fragment representa o comportamento ou uma parte da interface do usuário em um Activity. É possível combinar vários fragmentos em uma única atividade para compilar uma IU de vários painéis e reutilizar um fragmento em diversas atividades, nessa arquitetura eu utilizei fragmentos, e criei uma classe chamada "ManagerFragment" para gerenciar a parte de adicionar, remover e substituir fragmento. Mais informações nesses links abaixo:
   
   https://developer.android.com/training/basics/fragments/creating.html
+  
   http://www.vogella.com/tutorials/AndroidFragments/article.html
   
   # MVP
@@ -23,7 +26,9 @@ https://code.tutsplus.com/tutorials/dependency-injection-with-dagger-2-on-androi
   - Os padrões de arquitetura são fundamentais para mantermos um código limpo, expansível e testável. Estas soluções reconhecidas vem sendo desenvolvidas há anos e oferecem referências indispensáveis para a implementação de projetos robustos, com confiabilidade e dentro dos standards que a indústria espera. Nesse projeto eu utilizei o MVP, por que se adequa bem para filosofia de TDD, onde eu utilizei nesse projeto o (JUnit, Roboletric e Espresso). Mais informações obter nesses links abaixo:
   
   http://www.thiengo.com.br/mvp-android
+  
   https://android.jlelse.eu/android-mvp-for-beginners-25889c500443
+  
   https://www.codeproject.com/Articles/288928/Differences-between-MVC-and-MVP-for-Beginners
   
   # TDD
@@ -31,25 +36,33 @@ https://code.tutsplus.com/tutorials/dependency-injection-with-dagger-2-on-androi
   - Desenvolvimento dirigido por testes é uma técnica de desenvolvimento de software que baseia em um ciclo curto de repetições: primeiramente o desenvolvedor escreve um caso de teste automatizado que define uma melhoria desejada ou uma nova funcionalidade.Mais informações no link abaixo:
   
   https://medium.com/mobility/how-to-do-tdd-in-android-90f013d91d7f
+  
   http://bytes.babbel.com/en/articles/2016-05-20-tdd-in-android.html
+  
   http://rafael-miceli.com.br/tdd/2015/03/28/TDD-Com-Android-RED.html
+  
   https://www.toptal.com/android/testing-like-a-true-green-droid
   
   - Junit  
   
   http://www.vogella.com/tutorials/JUnit/article.html
+  
   http://www.mkyong.com/tutorials/junit-tutorials/
+  
   http://alexzh.com/tutorials/android-testing-unit-testing/
   
   - Roboletric
   
   http://robolectric.org/
+  
   https://github.com/codepath/android_guides/wiki/Unit-Testing-with-Robolectric
+  
   http://alexzh.com/tutorials/android-testing-mockito-robolectric/
   
   - espresso
   
   http://alexzh.com/tutorials/android-testing-espresso-part-3/
+  
   http://alexzh.com/tutorials/android-testing-espresso-uiautomator-together/
   
   # Projeto MVP-Dagger2
